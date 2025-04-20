@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Lenni - @bylenni
 - 👀 I’m interested in Design, Tech, Sports, Travel
-- 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on some cool design driven stuff 
-- 📫 hello@lenni.work
+- 📫 made@bylenni.com
 - ⚡ Fun fact: love playing Padel
 
 <!---
